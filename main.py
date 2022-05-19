@@ -24,13 +24,13 @@ def balance(dic, each_cost):
 if __name__ == '__main__':
     dic = {}
     while True:
-        name = input("Please input a Name:")
+        name = input("Please input a Name (Type 'exit' to exit):")
 
         if name == 'exit':
             break
 
         while True:
-            value = input("Please input a Value:")
+            value = input("Please input a Value (Type '-1' to return to previous level):")
             value = float(value)
             if value != -1:
                 if dic.get(name) != None:
