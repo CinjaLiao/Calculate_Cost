@@ -1,4 +1,10 @@
-
+# -*- coding: utf-8 -*-
+"""
+@Author: Cinja
+@Software: PyCharm
+@File: main.py
+@Date: 2022/5/19
+"""
 
 def calu_total(dic):
     summary = 0
