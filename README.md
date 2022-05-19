@@ -4,6 +4,6 @@
 
 程序运行实例：
 
-![image-20220519182629446](D:\PythonFiles\算账程序\image\image-20220519182629446.png)
+![image-20220519182629446](https://github.com/CinjaLiao/Calculate_Cost/blob/master/image/image-20220519182629446.png)
 
 **注意：若某人无流水，则Value值为0，不可不填，否则报错。**
